@@ -5,6 +5,6 @@ Achieved model evaluation using F1 Score, Confusion Matrix, and other performanc
 Utilized Google Colab for model training and experimentation with GPU acceleration.<br/>
 
 <h3>📊 Highlights:</h3>
-Applied transfer learning and fine-tuning to adapt ImageNet-trained ResNet50 to medical imaging tasks.<br/>
+Applied fine-tuning to adapt ImageNet-trained ResNet50 to medical imaging tasks.<br/>
 
 Automated dataset handling using Kaggle API and implemented preprocessing pipelines for histopathological image data.
